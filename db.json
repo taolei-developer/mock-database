@@ -8,4 +8,4 @@
     time: '12:30pm',
     petAllowed: true,
     organizer: 'Tom'
- },
+ }
