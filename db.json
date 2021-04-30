@@ -1,33 +1,37 @@
 {
-    id: 5928101,
-    category: 'animal welfare',
-    title: 'Cat Adoption Day',
-    description: 'find your new feline friend at this event',
-    location: 'new town',
-    date: '4th April 2021',
-    time: '12:30pm',
-    petAllowed: true,
-    organizer: 'Tom'
- },
- {
-    id: 5928102,
-    category: 'animal welfare',
-    title: 'Cat Adoption Day',
-    description: 'find your new feline friend at this event',
-    location: 'new town',
-    date: '4th April 2021',
-    time: '12:30pm',
-    petAllowed: true,
-    organizer: 'Tom'
- },
- {
-    id: 5928103,
-    category: 'animal welfare',
-    title: 'Cat Adoption Day',
-    description: 'find your new feline friend at this event',
-    location: 'new town',
-    date: '4th April 2021',
-    time: '12:30pm',
-    petAllowed: true,
-    organizer: 'Tom'
- }
+    "events":[
+        {
+            id: 5928101,
+            category: 'animal welfare',
+            title: 'Cat Adoption Day',
+            description: 'find your new feline friend at this event',
+            location: 'new town',
+            date: '4th April 2021',
+            time: '12:30pm',
+            petAllowed: true,
+            organizer: 'Tom'
+         },
+         {
+            id: 5928102,
+            category: 'animal welfare',
+            title: 'Cat Adoption Day',
+            description: 'find your new feline friend at this event',
+            location: 'new town',
+            date: '4th April 2021',
+            time: '12:30pm',
+            petAllowed: true,
+            organizer: 'Tom'
+         },
+         {
+            id: 5928103,
+            category: 'animal welfare',
+            title: 'Cat Adoption Day',
+            description: 'find your new feline friend at this event',
+            location: 'new town',
+            date: '4th April 2021',
+            time: '12:30pm',
+            petAllowed: true,
+            organizer: 'Tom'
+         }
+     ]
+}
